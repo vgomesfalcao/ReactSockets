@@ -27,12 +27,18 @@ Node.js and npm are required to run this project.
 - web-vitals: 1.0.1
 
 ## Scripts
-- start: react-scripts start
-- build: react-scripts build
-- test: react-scripts test
-- eject: react-scripts eject
-
-
+```bash
+npm start
+```
+```bash
+npm run build
+```
+```bash
+npm run test
+```
+```bash
+npm run eject
+```
 
 ## Browsers Support
 
